@@ -84,7 +84,7 @@ I dati utilizzati in questo progetto sono una ricostruzione fedele delle medie m
 
 ```bash
 git clone https://github.com/michelevecchiato/metano.git
-cd car
+cd metano
 ```
 
 ### 2. Crea e attiva un ambiente virtuale (consigliato)
